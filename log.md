@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 02, 2017 
+### Day 1: April 09, 2017 
 
-**Today's Progress**: 
+**Today's Progress**: Finished Chris Pine Chapters 1-14 (Ruby), started Codewars journal 
 
-**Thoughts:** 
+**Thoughts:** I struggled with recursion and lambdas/procs the most. I need to do a few more recursion exercises to truly wrap my head around it and also look up what lambdas/procs are commonly used for. While I have a grasp of the differences between them, I feel that understanding the different situations they are each used for would strengthen this understanding. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+I've also started my long overdue Codewars journal (mostly to start making a conscious effort to review model solutions, break them down and form some takeaways). 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
